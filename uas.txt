@@ -1,12 +1,12 @@
 uas python kelompok (cyber)
 
-- wifi.py digunakan untuk menampilkan jaringan yang pernah terdaftar atau yang pernah masuk kejaringan saat ini
+- wifi_scanner.py digunakan untuk menampilkan jaringan yang pernah terdaftar atau yang pernah masuk kejaringan saat ini
 netsh wlan show all menampilkan jaringa local wireless 
 netsh wlan set all menampilkan informasi konfigurasi pada wireless
 ssid sebuah ID jaringan yang dimiliki oleh semua jaringan wifi, ssid dapat dilihat ketika perangkat ingin menyambung ke jaringan
 wifi
 
-- portscanner.py digunakan untuk menampilkan port yang ada dalam suatu jaringan
+- port_scanner.py digunakan untuk menampilkan port yang ada dalam suatu jaringan
 
 - client.py sebagai client yang akan mengirimkan sebuah file
 - server.py sebagai server yang menerima file
